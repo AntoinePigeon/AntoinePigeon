@@ -32,7 +32,7 @@ Basé à Montréal. Ouvert aux opportunités.
 
 ---
 
-# Hi, I'm Antoine 👋
+# Hi, I'm Antoine
 
 **Junior developer transitioning into cloud and DevOps.**
 Based in Montreal. Open to work.
