@@ -20,7 +20,7 @@ Basé à Montréal. Ouvert aux opportunités.
 - **[AWS Cost Report](https://github.com/AntoinePigeon/aws-cost-report)** · Outil FinOps : collecte des coûts AWS (boto3), analyse pandas avec détection d'anomalies (3-sigma), rapport automatisé via pipeline CI/CD (GitHub Actions).
 - **[Met Art Pipeline](https://github.com/AntoinePigeon/met-web-scraping)** · Pipeline ETL de bout en bout : scraping résilient (requests / BeautifulSoup), nettoyage pandas, chargement idempotent dans PostgreSQL, validation qualité.
 - **[Pigeon Photography](https://github.com/AntoinePigeon/Photography-Website)** · Application Flask complète (SQLAlchemy, PostgreSQL, authentification, CRUD), déployée en production sur Render. [Démo en ligne](https://pigeon-photography.onrender.com/)
-- **[PDF-to-Speech](https://github.com/AntoinePigeon/pdf-to-speech)** · Outil CLI convertissant des PDF en audio via Amazon Polly (boto3), avec relances à backoff exponentiel et tests pytest.
+- **[Nest](https://github.com/AntoinePigeon/nest-app-folder)** · Application de bureau macOS (PySide6) qui génère des arborescences de livrables audio au nommage strict, construite sur un moteur de nommage en Python pur couvert par pytest et empaquetée en `.app` autonome avec PyInstaller.
 
 ### En ce moment
 - J'approfondis **Docker** et **Terraform**.
@@ -54,7 +54,7 @@ Based in Montreal. Open to work.
 - **[AWS Cost Report](https://github.com/AntoinePigeon/aws-cost-report)** · FinOps tool: pulls AWS spend (boto3), analyzes it with pandas including anomaly detection (3-sigma), and generates an automated report through a CI/CD pipeline (GitHub Actions).
 - **[Met Art Pipeline](https://github.com/AntoinePigeon/met-web-scraping)** · End-to-end ETL pipeline: resilient scraping (requests / BeautifulSoup), pandas cleaning, idempotent load into PostgreSQL, data-quality validation.
 - **[Pigeon Photography](https://github.com/AntoinePigeon/Photography-Website)** · Full Flask web app (SQLAlchemy, PostgreSQL, authentication, CRUD), deployed to production on Render. [Live demo](https://pigeon-photography.onrender.com/)
-- **[PDF-to-Speech](https://github.com/AntoinePigeon/pdf-to-speech)** · CLI tool converting PDFs to audio via Amazon Polly (boto3), with exponential-backoff retries and pytest tests.
+- **[Nest](https://github.com/AntoinePigeon/nest-app-folder)** · macOS desktop app (PySide6) that generates strictly-formatted delivery folder structures for audio post-production, built on a pure-Python naming engine with pytest coverage and packaged as a standalone `.app` with PyInstaller.
 
 ### Currently
 - Going deeper on **Docker** and **Terraform**.
