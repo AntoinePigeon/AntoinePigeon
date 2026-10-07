@@ -1,6 +1,6 @@
 # Salut, je suis Antoine
 
-**Développeur junior en transition de carrière vers le cloud et le DevOps.**
+**Développeur junior en transition de carrière vers l'automatisation.**
 Basé à Montréal. Ouvert aux opportunités.
 
 ### À propos
@@ -34,7 +34,7 @@ Basé à Montréal. Ouvert aux opportunités.
 
 # Hi, I'm Antoine
 
-**Junior developer transitioning into cloud and DevOps.**
+**Junior developer transitioning into automation.**
 Based in Montreal. Open to work.
 
 ### About
